@@ -1,0 +1,45 @@
+ex* {
+  margin: 0px;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.Country-select {
+  font-style: normal;
+  width: 40% !important;
+  height: 50px !important;
+  text-align: center !important;
+  margin: auto !important;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  background: white;
+}
+
+.option {
+  color: black !important;
+  background: none !important;
+  background-color: white !important;
+}
+
+.SelectIdea {
+  margin-top: 50px;
+}
+.ChartJsStyle {
+  margin: auto !important;
+  width: 50% !important;
+  text-align: center;
+}
+.ChartJsStyle :hover {
+  transition: 0.4s ease-out;
+}

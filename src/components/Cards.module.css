@@ -1,0 +1,28 @@
+.container {
+  text-align: center !;
+  margin: 50px 0 !important;
+}
+
+.card {
+  margin-bottom: 0 2% !important;
+  margin: 10px !important;
+}
+
+.infected {
+  margin-left: auto !important;
+
+  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.card:hover {
+  transition: 0.6s ease-out;
+}
+.recovered {
+  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.deaths {
+  margin-right: auto !important;
+
+  border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
